@@ -6,8 +6,6 @@ import Search from './pages/search'
 function App() {
   return (
     <div>
-        <Navbar />
-        <Hero />
         <Search />
     </div>
   );
